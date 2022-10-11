@@ -50,6 +50,7 @@ export default {
   background-position: center center;
   position: relative;
   margin-bottom: 4px;
+  margin-top: 4px;
   .icon-left,
   .icon-right {
     position: absolute;
