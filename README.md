@@ -2,7 +2,7 @@
 
 roc脚手架vue项目模板
 
-项目中的utils.js实时更新地址：[http://git.luojing.top/rocyuan/roc-utils](http://git.luojing.top/rocyuan/roc-utils)
+项目中的utils.js实时更新地址：[https://github.com/rocyuan666/roc-utils](https://github.com/rocyuan666/roc-utils)
 
 个人网站: [https://luojing.top](https://luojing.top)
 
