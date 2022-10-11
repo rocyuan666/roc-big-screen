@@ -10,7 +10,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 
 // 懒加载路由组件
-const Home = () => import("@/views/home/Home.vue");
+const Home = () => import("@/views/home");
 
 Vue.use(VueRouter);
 
