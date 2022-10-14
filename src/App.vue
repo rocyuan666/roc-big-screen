@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <RocScaleBox>
+    <ScaleBox>
       <router-view />
-    </RocScaleBox>
+    </ScaleBox>
   </div>
 </template>
 
 <script>
-import RocScaleBox from "roc-scale-box";
+import ScaleBox from "vue2-scale-box";
 export default {
   name: "App",
   components: {
-    RocScaleBox,
+    ScaleBox,
   },
 };
 </script>
